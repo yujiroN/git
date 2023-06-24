@@ -1,15 +1,6 @@
-.btn {
-    margin: 100px;
+p {
+	color: red;
 }
-
-.btn a {
-    display: inline-block;
-    text-decoration: none;
-    padding: 20px 50px;
-    background-color: red;
-    color: white;
-}
-
 
 
 
